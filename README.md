@@ -62,25 +62,23 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ### 1️⃣ [Project One](https://localmarkettrackerbd.netlify.app/)
 **Description:** Short description of the project here.  
 **Tech Used:** React, Tailwind CSS, Node.js, MongoDB  
-[![Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/project-one)  
+[![frontend Repo Link](https://github.com/Mahiudden/local-market-tracker)  
+[![backend Repo Link](https://github.com/Mahiudden/local-market-tracker-server)
 
 ---
 
-### 2️⃣ [Project Two](https://live-link-2.com)  
+### 2️⃣ [Project Two](https://recipebooks1.netlify.app/)  
 **Description:** Short description of the project here.  
 **Tech Used:** MERN Stack, JWT Auth, Cloudinary  
-[![Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/project-two)  
+[![frontend Repo Link](https://github.com/Mahiudden/book)  
+[![backend Repo Link](https://github.com/Mahiudden/book-server)  
 
 ---
 
-### 3️⃣ [Project Three](https://live-link-3.com)  
+### 3️⃣ [Project Three]()  
 **Description:** Short description of the project here.  
 **Tech Used:** React, Redux, Node.js, Stripe API  
-[![Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/project-three)  
+[![frontend Repo Link](https://github.com/Mahiudden/BookHaven)  
+[![backend Repo Link](https://github.com/Mahiudden/BookHaven-server)  
 
----
 
-⭐ **Pro Tip:**  
-- উপরের `" "` জায়গায় নিজের প্রোফাইল ব্যানার ইমেজ লিংক বসাও।  
-- `mailto:` এর মধ্যে নিজের ইমেইল বসাও।  
-- প্রজেক্ট লিংক ও বর্ণনা পরে এডিট করো।  
