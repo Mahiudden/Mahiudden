@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src=" " alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Mohiuddin</h1>
+<h1 align="center">Hi 👋, I'm Mahiudden</h1>
 <h3 align="center">💻 Frontend Web Developer | MERN Stack Enthusiast</h3>
 
 ---
