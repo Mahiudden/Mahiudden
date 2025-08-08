@@ -13,7 +13,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ---
 
 ## 📌 Current Activities
-- 🌱 I’m exploring **Next.js** and **TypeScript**  
+- 🌱 I’m exploring **React.js** and **javaScript**  
 - 💼 Working on a **Tourism Website** project  
 - 🔍 Improving my **problem-solving skills** in JavaScript  
 - 📚 Learning **Backend Development** with Node.js & Express  
