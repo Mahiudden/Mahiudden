@@ -50,7 +50,6 @@ I focus on writing clean, maintainable code and always keep learning new technol
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahiudden&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=Mahiudden&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiudden&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
