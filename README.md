@@ -68,7 +68,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ---
 
 ### 2️⃣ [Project Two](https://recipebooks1.netlify.app/)  
-**Description:**  
+**Description:**  Recipe Book is a user-friendly web platform where users can discover a variety of recipes, share their own cooking creations, and save or like their favorite recipes. Designed with a simple and intuitive interface, it makes exploring and sharing culinary ideas easy and enjoyable.
 **Tech Used:** react,tailwindcss, firebase ,Node.js, express.js,mongodb
 [![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/book)  
 [![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/book-server)  
@@ -76,7 +76,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ---
 
 ### 3️⃣ [Project Three](https://my-assinment11.web.app)  
-**Description:** Short description of the project here.  
+**Description:** Book Haven is a digital bookshelf platform where users can organize, manage, and showcase their personal book collections online. It offers an easy and interactive way to keep track of books, share favorites, and explore reading habits.Book Haven is a digital bookshelf platform where users can organize, manage, and showcase their personal book collections online. It offers an easy and interactive way to keep track of books, share favorites, and explore reading habits. 
 **Tech Used:**  react,tailwindcss, firebase ,Node.js, express.js,mongodb 
 [![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/BookHaven)  
 [![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/BookHaven-server)  
