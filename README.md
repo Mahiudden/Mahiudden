@@ -78,12 +78,12 @@ I focus on writing clean, maintainable code and always keep learning new technol
 
 ---
 
-### 3️⃣ [Project Three](https://my-assinment11.web.app)  
+### 3️⃣ [Project Three](https://bookhaven02.netlify.app/)  
 **Description:** Book Haven is a digital bookshelf platform where users can organize, manage, and showcase their personal book collections online. It offers an easy and interactive way to keep track of books, share favorites, and explore reading habits.Book Haven is a digital bookshelf platform where users can organize, manage, and showcase their personal book collections online. It offers an easy and interactive way to keep track of books, share favorites, and explore reading habits. 
 
 **Tech Used:**  react, Tailwindcss, firebase, Node.js, express.js,mongodb 
 
-[![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/BookHaven)  
+[![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/BookHaven01)  
 [![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/BookHaven-server)  
 
 
