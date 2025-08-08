@@ -63,7 +63,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 **Description:** Short description of the project here.  
 **Tech Used:** React, Tailwind CSS, Node.js, MongoDB  
 [![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/local-market-tracker)  
-[![backend Repo Link](https://github.com/Mahiudden/local-market-tracker-server)
+[![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/local-market-tracker-server)
 
 ---
 
