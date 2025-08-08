@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img width="1536" height="1024" alt="ChatGPT Image Jul 30, 2025, 10_04_55 AM" src="https://github.com/user-attachments/assets/ed8b9cbd-4c20-44e5-8406-60da82a12bf3" />
 
-<h1 align="center">Hi 👋, I'm Mahiudden</h1>
+<h1 align="center">Hi 👋, I'm Mohiuddin</h1>
 <h3 align="center">💻 Frontend Web Developer | MERN Stack Enthusiast</h3>
 
 ---
