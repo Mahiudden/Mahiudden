@@ -43,7 +43,6 @@ I focus on writing clean, maintainable code and always keep learning new technol
 <p align="left">
 <a href="https://github.com/Mahiudden" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/md-mohiudddin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<img src="https://activity-graph.herokuapp.com/graph?username=Mahiudden&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 <a href="mailto: "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -52,6 +51,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ## 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mahiudden&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Mahiudden&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiudden&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
