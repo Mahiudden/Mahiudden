@@ -60,7 +60,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ## 📌 Pinned Projects
 
 ### 1️⃣ [Project One](https://localmarkettrackerbd.netlify.app/)
-**Description:** Short description of the project here.  
+**Description:** Local Market Tracker BD is a modern web platform that provides real-time fresh market price updates to users. It features separate dashboards for vendors, buyers, and admins, allowing users to view product listings, compare prices, and track market price trends easily. This project is designed to make local market price information transparent and convenient for everyone in Bangladesh. 
 **Tech Used:** React, Tailwind CSS, Node.js, MongoDB  
 [![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/local-market-tracker)  
 [![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/local-market-tracker-server)
@@ -68,7 +68,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ---
 
 ### 2️⃣ [Project Two](https://recipebooks1.netlify.app/)  
-**Description:** Local Market Tracker BD is a modern web platform that provides real-time fresh market price updates to users. It features separate dashboards for vendors, buyers, and admins, allowing users to view product listings, compare prices, and track market price trends easily. This project is designed to make local market price information transparent and convenient for everyone in Bangladesh..  
+**Description:**  
 **Tech Used:** react,tailwindcss, firebase ,Node.js, express.js,mongodb
 [![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/book)  
 [![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/book-server)  
