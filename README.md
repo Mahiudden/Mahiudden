@@ -70,15 +70,15 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ### 2️⃣ [Project Two](https://recipebooks1.netlify.app/)  
 **Description:** Short description of the project here.  
 **Tech Used:** MERN Stack, JWT Auth, Cloudinary  
-[![frontend Repo Link](https://github.com/Mahiudden/book)  
-[![backend Repo Link](https://github.com/Mahiudden/book-server)  
+[![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/book)  
+[![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/book-server)  
 
 ---
 
 ### 3️⃣ [Project Three]()  
 **Description:** Short description of the project here.  
 **Tech Used:** React, Redux, Node.js, Stripe API  
-[![frontend Repo Link](https://github.com/Mahiudden/BookHaven)  
-[![backend Repo Link](https://github.com/Mahiudden/BookHaven-server)  
+[![frontend Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/BookHaven)  
+[![backend Repo Link](https://img.shields.io/badge/backend-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/BookHaven-server)  
 
 
