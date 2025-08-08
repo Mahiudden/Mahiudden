@@ -42,7 +42,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 ## 🌐 Connect with Me  
 <p align="left">
 <a href="https://github.com/Mahiudden" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.linkedin.com/in/md-mohiudddin-b9b014299" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/md-mohiudddin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto: "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
