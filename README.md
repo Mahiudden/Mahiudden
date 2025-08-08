@@ -59,7 +59,7 @@ I focus on writing clean, maintainable code and always keep learning new technol
 
 ## 📌 Pinned Projects
 
-### 1️⃣ [Project One](https://live-link-1.com)
+### 1️⃣ [Project One](https://localmarkettrackerbd.netlify.app/)
 **Description:** Short description of the project here.  
 **Tech Used:** React, Tailwind CSS, Node.js, MongoDB  
 [![Repo Link](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahiudden/project-one)  
